@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student at  Dartmouth College<br>👯 I’m looking for an internship in software engineering<br>🤝 I’m looking for help with<br>🌱 I’m currently building a web app for EdTech development<br>💬 Ask me about<br>⚡ Fun fact: I love to play FIFA
+🔭 I’m currently a student at  Dartmouth College<br>👯 I’m looking for an internship in software engineering<br>🤝 I’m looking for help with<br>🌱 I’m currently building a web app for EdTech development<br>💬 Ask me about: Crypto or Soccer <br>⚡ Fun fact: I love to play FIFA
 
 
 ## 🌐 Socials:
